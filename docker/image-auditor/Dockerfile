@@ -6,4 +6,4 @@ MAINTAINER Marion Dutu Launay <marion.dutulaunay@heig-vd.ch>
 #
 COPY src /opt/app/
 
-ENTRYPOINT ["node", "/opt/app/musician.js"]
+ENTRYPOINT ["node", "/opt/app/auditor.js"]
